@@ -6,6 +6,10 @@ Hope it's useful for you.
   
 The included demo shows how to use it.
 
+![alt text](https://github.com/joetrs/ESP32_CH9350_KEY/blob/main/IMG_7906.jpg?raw=true)
+
 CH9350 should be in working mode "lower computer) (SEL = high)working status 4 (S0,S1 = low).
 Look at the correct baudrate (b0,b1). For the demo both should be high (11520Baud)
+
+![alt text](https://github.com/joetrs/ESP32_CH9350_KEY/blob/main/IMG_7907.jpg?raw=true)
   
