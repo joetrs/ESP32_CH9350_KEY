@@ -4,5 +4,8 @@ Sometime it is useful to connect a Keyboard to a embedded controller. Long time 
 This is a simple class for using a USB keyboard/mouse with a CH9350 chip or module.
 Hope it's useful for you.
   
-Code follows soon 8-9-2022  
+The included demo shows how to use it.
+
+CH9350 should be in working mode "lower computer) (SEL = high)working status 4 (S0,S1 = low).
+Look at the correct baudrate (b0,b1). For the demo both should be high (11520Baud)
   
